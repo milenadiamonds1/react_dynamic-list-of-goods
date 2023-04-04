@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,yBAIG,iBAAkB,CACnB,MAID,eAAgB","file":"main.f2e7618c.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.button {\n  &:not(:last-child) {\n    margin-right: 10px;\n  }\n}\n\n.list {\n  margin-top: 15px;\n}\n"]}
